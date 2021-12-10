@@ -1,4 +1,4 @@
-h1 align = "center"> Olá 👋, Eu sou Gabriel </h1>
+<h1 align = "center"> Olá 👋, Eu sou Gabriel </h1>
 <h3 align = "center"> Sou um estudante do Edutech, da turma de Python. Vamos programar </h3>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=gabrielhenri39&label=Profile%20views&color=0e75b6&style=flat" alt = "gabrielhenri39" /> </p>
@@ -21,7 +21,7 @@ h1 align = "center"> Olá 👋, Eu sou Gabriel </h1>
  <p><a hrel = "noreferrer"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "python" width = "40" height = " 40 "/> </a> </p>
 
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=gabrielhenri39&show_icons=true&locale=en&layout=compact" alt = "gabrielhenri39" /> </p>
-
+<br>
 <p> &nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=gabrielhenri39&show_icons=true&locale=en" alt = "gabrielhenri39" /> </p>
 
 <p> 
