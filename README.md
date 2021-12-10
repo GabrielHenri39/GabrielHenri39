@@ -1,5 +1,6 @@
 <h1 align = "center"> Olá 👋, Eu sou Gabriel </h1>
 <h3 align = "center"> Sou um estudante do Edutech, da turma de Python. Vamos programar </h3>
+ 
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=gabrielhenri39&label=Profile%20views&color=0e75b6&style=flat" alt = "gabrielhenri39" /> </p>
 
@@ -19,3 +20,4 @@
 <p> &nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=gabrielhenri39&show_icons=true&locale=en" alt = "gabrielhenri39" /> </p>
 
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=gabrielhenri39&" alt = "gabrielhenri39" /> </p>
+
