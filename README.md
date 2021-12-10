@@ -7,7 +7,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python**
 
-- 📫 Como me encontrar **gabriel688dias@gmail.com ou gabriel688dias@hotmail.com**
+- 📫 Como me encontrar: **gabriel688dias@gmail.com ou gabriel688dias@hotmail.com**
 
 <h3 align = "left"> Conecte-se comigo: </h3>
 <p align = "left">
