@@ -9,9 +9,9 @@
 
 - 📫 Como me encontrar **gabriel688dias@gmail.com ou gabriel688dias@hotmail.com**
 
-<
-
-<a href="https://linkedin.com/in/gabriel-henrique-alves-dias-78578b210" target="_blank" > <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg "alt ="/gabriel-henrique-alves-dias-78578b210 "altura =" 30 "largura = "40" /> </a>
+<h3 align = "left"> Conecte-se comigo: </h3>
+<p align = "left">
+<a href="https://linkedin.com/in/gabriel-henrique-alves-dias-78578b210" target="blank"> <img align ="center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg "alt ="/gabriel-henrique-alves-dias-78578b210" width="30" height = "40" /> </a>
 </p>
 
 <h3 align = "left"> Idiomas e ferramentas: </h3>
