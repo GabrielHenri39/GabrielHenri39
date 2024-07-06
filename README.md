@@ -2,7 +2,6 @@
 <h3 align = "center"> vamos mudar o mundo para Melhor &#x1F30E</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gabrielhenri39)](https://github.com/ryo-ma/github-profile-trophy)
-<p align = "left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src = "https://github-profile-trophy.vercel.app/?username=gabrielhenri39 "alt ="gabrielhenri39 "/> </a> </p>
 
 - 🌱 Atualmente estou aprendendo **Data Science**
 
