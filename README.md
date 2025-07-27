@@ -1,9 +1,9 @@
 <h1 align="center">Olá! 👋 Eu sou Gabriel Henrique</h1>
 <h3 align="center">Em busca de transformar o mundo com dados e tecnologia! 🌍</h3>
 
-<div align="center">
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=GabrielHenri39&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
 
 Sou um entusiasta da tecnologia, sempre em busca de novos conhecimentos e desafios. Atualmente, estou focado em aprofundar meus estudos em **Data Science**, buscando insights e soluções inovadoras através dos dados.
 
